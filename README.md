@@ -3,7 +3,7 @@
 ![Example](https://github.com/fandreyf/tm1637/blob/main/img/tm1637.jpg)
 
 #### tm1637 --> OrangeZero2
-####  VCC        pin4
-####  GND        pin9
-####  DIO        pin3
-####  CLK        pin5
+####  VCC   --> pin4
+####  GND   --> pin9
+####  DIO   --> pin3
+####  CLK   --> pin5
