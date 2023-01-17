@@ -1,6 +1,6 @@
 # tm1637
 ### Modified version, work on OrangePi Zero2
-#####For use need install dependencies:
+##### For use need install dependencies:
 ###### https://github.com/orangepi-xunlong/wiringOP
 ###### https://github.com/orangepi-xunlong/wiringOP-Python
 ![Example](https://github.com/fandreyf/tm1637/blob/main/img/tm1637.jpg)
